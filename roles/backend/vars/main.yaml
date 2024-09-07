@@ -1,4 +1,4 @@
 mysql_root_password: ExpenseApp@1
 login_host: mysql.prudviraj.online
-ap_location: /app
+app_location: /app
 component: backend
